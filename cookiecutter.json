@@ -1,0 +1,7 @@
+{
+    "project_name": "simple",
+    "app_name": "simple",
+    "project_short_description": "Simple flask project",
+    "version": "0.1.0",
+    "port": 5000
+}
